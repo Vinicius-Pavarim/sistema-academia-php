@@ -49,6 +49,12 @@ Os arquivos do banco foram gerados e utilizados via **phpMyAdmin em ambiente loc
 
 ---
 
+## Video Demonstrativo do Projeto Funcionando
+
+https://github.com/user-attachments/assets/9ac01873-8a39-4d84-8ab5-e9b1b391ed97
+
+---
+
 ## Autor
 
 **Vinicius Valentim Pavarim**  
