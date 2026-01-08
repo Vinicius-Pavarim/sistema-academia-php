@@ -49,7 +49,7 @@ Os arquivos do banco foram gerados e utilizados via **phpMyAdmin em ambiente loc
 
 ---
 
-## Video Demonstrativo do Projeto Funcionando
+## Video Demonstrativo do Funcionamento do Projeto
 
 https://github.com/user-attachments/assets/c3a2d8c2-e4de-4dea-83f3-540c521e618f
 
