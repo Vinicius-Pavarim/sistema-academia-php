@@ -49,6 +49,13 @@ Os arquivos do banco foram gerados e utilizados via **phpMyAdmin em ambiente loc
 
 ---
 
-## Video Demonstrativo do Funcionamento do Projeto
+## Autor
 
-https://github.com/user-attachments/assets/00152c07-d6be-44a3-9886-7e9cc5cd5543
+**Vinicius Valentim Pavarim**  
+Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+
+---
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. 
